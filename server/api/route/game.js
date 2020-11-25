@@ -22,3 +22,5 @@ router.post('/new-match', (req, res, next) => {
         });
     }
 });
+
+module.exports = router;
